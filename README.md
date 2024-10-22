@@ -1,4 +1,4 @@
 # first-app
 this my first project
-<br/>
+<br>
 auther = AtanuSil
